@@ -25,7 +25,7 @@
 
 | Название | Модель | Теги | Ссылка |
 | :--- | :--- | :--- | :--- |
-| **MedTech Compliance Audit** | GPT-4o-mini | `#medtech` `#compliance` `#ivus` | [Перейти]() |
+| **MedTech Compliance Audit** | GPT-4o-mini | `#product` `#document` `#medtech` `#compliance` `#ivus` | (prompts/product document/PDF IVUS brochure audit/meta.json) |
 | **Scientific PDF Analyzer** | GPT-4o | `#medical` `#pdf` `#research` | [В разработке] |
 | **JSON Extraction Tool** | GPT-4.5 | `#automation` `#json` `#data` | [В разработке] |
 
